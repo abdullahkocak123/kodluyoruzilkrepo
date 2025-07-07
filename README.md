@@ -30,3 +30,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![image sample](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2c%2FExample_i18n.svg%2Flangtr-742px-Example_i18n.svg.png&tbnid=Mtw6G1rV5Qa2FM&vet=10CAIQxiAoAGoXChMI2Lv4lvuqjgMVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AExample_i18n.svg&docid=uMyyBjaZpU-YHM&w=742&h=768&itg=1&q=%C3%B6rnek%20resim&ved=0CAIQxiAoAGoXChMI2Lv4lvuqjgMVAAAAAB0AAAAAEAY)
+
+![image sample](C:\Users\abdul\Desktop\geçici\indir.jpg)
